@@ -23,6 +23,7 @@
   "homepage": "https://github.com/facet/category",
   "dependencies": {
     "mongoose-tree": "^0.2.2",
+    "underscore": "^1.6.0",
     "facet-core": "https://github.com/facet/core/tarball/master"
   }
 }
